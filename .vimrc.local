@@ -1,0 +1,8 @@
+colorscheme railscasts
+"colorscheme gruvbox
+
+" F9 for tree
+nnoremap <silent> <F9> :NERDTree<CR>
+
+" Showing indentation. It sucks.
+UnBundle 'nathanaelkane/vim-indent-guides'
